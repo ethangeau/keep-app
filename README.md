@@ -1,2 +1,2 @@
 # keep-app
-A memo web app using react.
+A note web app using react and django.
